@@ -1,5 +1,5 @@
 #Javascript Examples
-Inline-style: 
+
 ![alt text](http://elastictheme.org/wp-content/uploads/2015/05/i-love-javascript.jpg "Logo Title Text 1")
 
 
