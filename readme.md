@@ -34,7 +34,7 @@ Ever wonder how much a "lifetime supply" of your favorite snack is? Wonder no mo
 - Output the result to the screen like so: "You will need NN to last you until the ripe old age of X".
 
 
-###The Geometrizer
+### The Geometrizer
 
 Calculate properties of a circle, using the definitions here.
 
@@ -43,7 +43,7 @@ Calculate properties of a circle, using the definitions here.
 - Calculate the area based on the radius, and output "The area is NN".
 
 
-###The Temperature Converter
+### The Temperature Converter
 
 It's hot out! Let's make a converter based on the steps here.
 
@@ -51,3 +51,25 @@ It's hot out! Let's make a converter based on the steps here.
 - Convert it to fahrenheit and output "NN°C is NN°F".
 - Now store a fahrenheit temperature into a variable.
 - Convert it to celsius and output "NN°F is NN°C."
+
+
+
+### What number's bigger?
+
+Write a function named greaterNum that:
+- takes 2 arguments, both numbers.
+- returns whichever number is the greater (higher) number.
+- Call that function 2 times with different number pairs, and log the output to make sure it works (e.g. "The greater number of 5 and 10 is 10.").
+
+### The Grade Assigner ?
+
+-Write a function named assignGrade that:
+-- Takes 1 argument, a number score.
+-- returns a grade for the score, either "A", "B", "C", "D", or "F".
+- Call that function for a few different scores and log the result to make sure it works.
+
+### The Pluralizer
+ - Write a function named pluralize that:
+ -- takes 2 arguments, a noun and a number.
+ -- returns the number and pluralized form, like "5 cats" or "1 dog".
+ --  Call that function for a few different scores and log the result to make sure it works.
