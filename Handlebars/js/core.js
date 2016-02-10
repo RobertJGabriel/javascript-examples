@@ -1,5 +1,5 @@
 $(window).load(function(){
-var source = $("#some-template").html(); 
+var source =  $("#some-template").html(); 
 var template = Handlebars.compile(source); 
 
 var data = { 
@@ -31,5 +31,8 @@ Handlebars.registerHelper('fullName', function(person) {
   return person.firstName + " " + person.lastName;
 });
 
+    
+
+    
 $('#middle').append(template(data));
 });//]]> 
